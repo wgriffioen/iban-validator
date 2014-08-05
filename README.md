@@ -1,6 +1,8 @@
 IBANValidator
 ----------
 
+[![Build Status](https://travis-ci.org/wgriffioen/iban-validator.png?branch=master)](https://travis-ci.org/wgriffioen/iban-validator)
+
 Copyright © 2014 Wim Griffioen
 
 Permission is hereby granted, free of charge, to any person
